@@ -1,0 +1,13 @@
+C:\Users\rhon6260\Desktop\Client Server Project 2015\Partners Service\VECO\VECO\VECOHost\bin\Debug\VECOHost.exe
+C:\Users\rhon6260\Desktop\Client Server Project 2015\Partners Service\VECO\VECO\VECOHost\bin\Debug\VECOHost.pdb
+C:\Users\rhon6260\Desktop\Client Server Project 2015\Partners Service\VECO\VECO\VECOHost\bin\Debug\VecoModels.dll
+C:\Users\rhon6260\Desktop\Client Server Project 2015\Partners Service\VECO\VECO\VECOHost\bin\Debug\VecoBusiness.dll
+C:\Users\rhon6260\Desktop\Client Server Project 2015\Partners Service\VECO\VECO\VECOHost\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rhon6260\Desktop\Client Server Project 2015\Partners Service\VECO\VECO\VECOHost\bin\Debug\VecoModels.pdb
+C:\Users\rhon6260\Desktop\Client Server Project 2015\Partners Service\VECO\VECO\VECOHost\bin\Debug\VecoBusiness.pdb
+C:\Users\rhon6260\Desktop\Client Server Project 2015\Partners Service\VECO\VECO\VECOHost\obj\x86\Debug\VECOHost.csprojResolveAssemblyReference.cache
+C:\Users\rhon6260\Desktop\Client Server Project 2015\Partners Service\VECO\VECO\VECOHost\obj\x86\Debug\VECOHost.exe
+C:\Users\rhon6260\Desktop\Client Server Project 2015\Partners Service\VECO\VECO\VECOHost\obj\x86\Debug\VECOHost.pdb
+C:\Users\rhon6260\Desktop\Client Server Project 2015\Partners Service\VECO\VECO\VECOHost\bin\Debug\VECOHost.exe.config
+C:\Users\rhon6260\Desktop\Client Server Project 2015\Partners Service\VECO\VECO\VECOHost\bin\Debug\VECOService.dll
+C:\Users\rhon6260\Desktop\Client Server Project 2015\Partners Service\VECO\VECO\VECOHost\bin\Debug\VECOService.pdb

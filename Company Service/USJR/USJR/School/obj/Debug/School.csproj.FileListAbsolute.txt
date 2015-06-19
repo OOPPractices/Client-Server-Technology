@@ -1,0 +1,9 @@
+C:\Users\BOSCONTROL\Documents\Visual Studio 2010\Projects\ClientServerApp\Services\USJR\School\bin\Debug\School.dll
+C:\Users\BOSCONTROL\Documents\Visual Studio 2010\Projects\ClientServerApp\Services\USJR\School\bin\Debug\School.pdb
+C:\Users\BOSCONTROL\Documents\Visual Studio 2010\Projects\ClientServerApp\Services\USJR\School\bin\Debug\MySql.Data.dll
+C:\Users\BOSCONTROL\Documents\Visual Studio 2010\Projects\ClientServerApp\Services\USJR\School\obj\Debug\School.csprojResolveAssemblyReference.cache
+C:\Users\BOSCONTROL\Documents\Visual Studio 2010\Projects\ClientServerApp\Services\USJR\School\obj\Debug\School.dll
+C:\Users\BOSCONTROL\Documents\Visual Studio 2010\Projects\ClientServerApp\Services\USJR\School\obj\Debug\School.pdb
+C:\Users\BOSCONTROL\Documents\Visual Studio 2010\Projects\ClientServerApp\Services\USJR\School\bin\Debug\Models.dll
+C:\Users\BOSCONTROL\Documents\Visual Studio 2010\Projects\ClientServerApp\Services\USJR\School\bin\Debug\Models.pdb
+C:\Users\BOSCONTROL\Documents\Visual Studio 2010\Projects\ClientServerApp\Services\USJR\School\bin\Debug\Newtonsoft.Json.dll

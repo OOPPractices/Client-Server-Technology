@@ -1,0 +1,9 @@
+C:\Users\BOSCONTROL\Documents\Visual Studio 2010\Projects\VECO\VecoModels\bin\Debug\VecoModels.dll
+C:\Users\BOSCONTROL\Documents\Visual Studio 2010\Projects\VECO\VecoModels\bin\Debug\VecoModels.pdb
+C:\Users\BOSCONTROL\Documents\Visual Studio 2010\Projects\VECO\VecoModels\obj\Debug\VecoModels.dll
+C:\Users\BOSCONTROL\Documents\Visual Studio 2010\Projects\VECO\VecoModels\obj\Debug\VecoModels.pdb
+C:\Users\rhon6260\Desktop\Client Server Project 2015\Partners Service\VECO\VECO\VecoModels\bin\Debug\VecoModels.dll
+C:\Users\rhon6260\Desktop\Client Server Project 2015\Partners Service\VECO\VECO\VecoModels\bin\Debug\VecoModels.pdb
+C:\Users\rhon6260\Desktop\Client Server Project 2015\Partners Service\VECO\VECO\VecoModels\obj\Debug\VecoModels.dll
+C:\Users\rhon6260\Desktop\Client Server Project 2015\Partners Service\VECO\VECO\VecoModels\obj\Debug\VecoModels.pdb
+C:\Users\rhon6260\Desktop\Client Server Project 2015\Partners Service\VECO\VECO\VecoModels\obj\Debug\VecoModels.csprojResolveAssemblyReference.cache

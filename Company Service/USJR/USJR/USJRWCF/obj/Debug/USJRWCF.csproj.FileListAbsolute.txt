@@ -1,0 +1,12 @@
+C:\Users\BOSCONTROL\Documents\Visual Studio 2010\Projects\ClientServerApp\Services\USJR\USJRWCF\bin\Debug\USJRWCF.dll.config
+C:\Users\BOSCONTROL\Documents\Visual Studio 2010\Projects\ClientServerApp\Services\USJR\USJRWCF\bin\Debug\USJRWCF.dll
+C:\Users\BOSCONTROL\Documents\Visual Studio 2010\Projects\ClientServerApp\Services\USJR\USJRWCF\bin\Debug\USJRWCF.pdb
+C:\Users\BOSCONTROL\Documents\Visual Studio 2010\Projects\ClientServerApp\Services\USJR\USJRWCF\obj\Debug\USJRWCF.dll
+C:\Users\BOSCONTROL\Documents\Visual Studio 2010\Projects\ClientServerApp\Services\USJR\USJRWCF\obj\Debug\USJRWCF.pdb
+C:\Users\BOSCONTROL\Documents\Visual Studio 2010\Projects\ClientServerApp\Services\USJR\USJRWCF\bin\Debug\Models.dll
+C:\Users\BOSCONTROL\Documents\Visual Studio 2010\Projects\ClientServerApp\Services\USJR\USJRWCF\bin\Debug\Models.pdb
+C:\Users\BOSCONTROL\Documents\Visual Studio 2010\Projects\ClientServerApp\Services\USJR\USJRWCF\obj\Debug\USJRWCF.csprojResolveAssemblyReference.cache
+C:\Users\BOSCONTROL\Documents\Visual Studio 2010\Projects\ClientServerApp\Services\USJR\USJRWCF\bin\Debug\School.dll
+C:\Users\BOSCONTROL\Documents\Visual Studio 2010\Projects\ClientServerApp\Services\USJR\USJRWCF\bin\Debug\MySql.Data.dll
+C:\Users\BOSCONTROL\Documents\Visual Studio 2010\Projects\ClientServerApp\Services\USJR\USJRWCF\bin\Debug\Newtonsoft.Json.dll
+C:\Users\BOSCONTROL\Documents\Visual Studio 2010\Projects\ClientServerApp\Services\USJR\USJRWCF\bin\Debug\School.pdb

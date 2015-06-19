@@ -1,0 +1,22 @@
+C:\Users\BOSCONTROL\Documents\Visual Studio 2010\Projects\ClientServerApp\Services\Globe\GlobeService\bin\GlobeService.dll
+C:\Users\BOSCONTROL\Documents\Visual Studio 2010\Projects\ClientServerApp\Services\Globe\GlobeService\bin\GlobeService.pdb
+C:\Users\BOSCONTROL\Documents\Visual Studio 2010\Projects\ClientServerApp\Services\Globe\GlobeService\bin\Business.dll
+C:\Users\BOSCONTROL\Documents\Visual Studio 2010\Projects\ClientServerApp\Services\Globe\GlobeService\bin\Models.dll
+C:\Users\BOSCONTROL\Documents\Visual Studio 2010\Projects\ClientServerApp\Services\Globe\GlobeService\bin\MySql.Data.dll
+C:\Users\BOSCONTROL\Documents\Visual Studio 2010\Projects\ClientServerApp\Services\Globe\GlobeService\bin\Business.pdb
+C:\Users\BOSCONTROL\Documents\Visual Studio 2010\Projects\ClientServerApp\Services\Globe\GlobeService\bin\Models.pdb
+C:\Users\BOSCONTROL\Documents\Visual Studio 2010\Projects\ClientServerApp\Services\Globe\GlobeService\obj\Debug\GlobeService.csprojResolveAssemblyReference.cache
+C:\Users\BOSCONTROL\Documents\Visual Studio 2010\Projects\ClientServerApp\Services\Globe\GlobeService\obj\Debug\GlobeService.dll
+C:\Users\BOSCONTROL\Documents\Visual Studio 2010\Projects\ClientServerApp\Services\Globe\GlobeService\obj\Debug\GlobeService.pdb
+C:\Users\BOSCONTROL\Documents\Visual Studio 2010\Projects\ClientServerApp\Services\Globe\GlobeService\bin\Newtonsoft.Json.dll
+C:\Users\rhon6260\Desktop\Client Server Project 2015\Partners Service\Globe\Globe\GlobeService\bin\GlobeService.dll
+C:\Users\rhon6260\Desktop\Client Server Project 2015\Partners Service\Globe\Globe\GlobeService\bin\GlobeService.pdb
+C:\Users\rhon6260\Desktop\Client Server Project 2015\Partners Service\Globe\Globe\GlobeService\bin\Business.dll
+C:\Users\rhon6260\Desktop\Client Server Project 2015\Partners Service\Globe\Globe\GlobeService\bin\Models.dll
+C:\Users\rhon6260\Desktop\Client Server Project 2015\Partners Service\Globe\Globe\GlobeService\bin\MySql.Data.dll
+C:\Users\rhon6260\Desktop\Client Server Project 2015\Partners Service\Globe\Globe\GlobeService\bin\Newtonsoft.Json.dll
+C:\Users\rhon6260\Desktop\Client Server Project 2015\Partners Service\Globe\Globe\GlobeService\bin\Business.pdb
+C:\Users\rhon6260\Desktop\Client Server Project 2015\Partners Service\Globe\Globe\GlobeService\bin\Models.pdb
+C:\Users\rhon6260\Desktop\Client Server Project 2015\Partners Service\Globe\Globe\GlobeService\obj\Debug\GlobeService.csprojResolveAssemblyReference.cache
+C:\Users\rhon6260\Desktop\Client Server Project 2015\Partners Service\Globe\Globe\GlobeService\obj\Debug\GlobeService.dll
+C:\Users\rhon6260\Desktop\Client Server Project 2015\Partners Service\Globe\Globe\GlobeService\obj\Debug\GlobeService.pdb

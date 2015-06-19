@@ -1,0 +1,8 @@
+C:\Users\BOSCONTROL\Documents\Visual Studio 2010\Projects\VECO\CustomerBillModel\bin\Debug\CustomerBillModel.dll
+C:\Users\BOSCONTROL\Documents\Visual Studio 2010\Projects\VECO\CustomerBillModel\bin\Debug\CustomerBillModel.pdb
+C:\Users\BOSCONTROL\Documents\Visual Studio 2010\Projects\VECO\CustomerBillModel\obj\Debug\CustomerBillModel.dll
+C:\Users\BOSCONTROL\Documents\Visual Studio 2010\Projects\VECO\CustomerBillModel\obj\Debug\CustomerBillModel.pdb
+C:\Users\rhon6260\Desktop\Client Server Project 2015\Partners Service\VECO\VECO\CustomerBillModel\bin\Debug\CustomerBillModel.dll
+C:\Users\rhon6260\Desktop\Client Server Project 2015\Partners Service\VECO\VECO\CustomerBillModel\bin\Debug\CustomerBillModel.pdb
+C:\Users\rhon6260\Desktop\Client Server Project 2015\Partners Service\VECO\VECO\CustomerBillModel\obj\Debug\CustomerBillModel.dll
+C:\Users\rhon6260\Desktop\Client Server Project 2015\Partners Service\VECO\VECO\CustomerBillModel\obj\Debug\CustomerBillModel.pdb

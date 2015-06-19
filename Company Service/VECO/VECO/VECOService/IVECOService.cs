@@ -1,0 +1,21 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Runtime.Serialization;
+using System.ServiceModel;
+using System.Text;
+using VecoModels;
+
+namespace VECOService
+{
+    // NOTE: You can use the "Rename" command on the "Refactor" menu to change the interface name "IService1" in both code and config file together.
+    [ServiceContract]
+    public interface IVECOService
+    {
+        [OperationContract]
+        CustomerBill getCustomerBill(string PaymentId);
+
+        [OperationContract]
+        bool CustomerPaymentSave(Customer customer, int PaymentsId, decimal Amount);
+    }
+}

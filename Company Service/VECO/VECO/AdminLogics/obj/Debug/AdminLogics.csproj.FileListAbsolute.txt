@@ -1,0 +1,19 @@
+C:\Users\BOSCONTROL\Documents\Visual Studio 2010\Projects\VECO\AdminLogics\bin\Debug\AdminLogics.dll
+C:\Users\BOSCONTROL\Documents\Visual Studio 2010\Projects\VECO\AdminLogics\bin\Debug\AdminLogics.pdb
+C:\Users\BOSCONTROL\Documents\Visual Studio 2010\Projects\VECO\AdminLogics\bin\Debug\CustomerBillModel.dll
+C:\Users\BOSCONTROL\Documents\Visual Studio 2010\Projects\VECO\AdminLogics\bin\Debug\MySql.Data.dll
+C:\Users\BOSCONTROL\Documents\Visual Studio 2010\Projects\VECO\AdminLogics\bin\Debug\VecoModels.dll
+C:\Users\BOSCONTROL\Documents\Visual Studio 2010\Projects\VECO\AdminLogics\bin\Debug\CustomerBillModel.pdb
+C:\Users\BOSCONTROL\Documents\Visual Studio 2010\Projects\VECO\AdminLogics\bin\Debug\VecoModels.pdb
+C:\Users\BOSCONTROL\Documents\Visual Studio 2010\Projects\VECO\AdminLogics\obj\Debug\AdminLogics.csprojResolveAssemblyReference.cache
+C:\Users\BOSCONTROL\Documents\Visual Studio 2010\Projects\VECO\AdminLogics\obj\Debug\AdminLogics.dll
+C:\Users\BOSCONTROL\Documents\Visual Studio 2010\Projects\VECO\AdminLogics\obj\Debug\AdminLogics.pdb
+C:\Users\rhon6260\Desktop\Client Server Project 2015\Partners Service\VECO\VECO\AdminLogics\bin\Debug\AdminLogics.dll
+C:\Users\rhon6260\Desktop\Client Server Project 2015\Partners Service\VECO\VECO\AdminLogics\bin\Debug\AdminLogics.pdb
+C:\Users\rhon6260\Desktop\Client Server Project 2015\Partners Service\VECO\VECO\AdminLogics\bin\Debug\CustomerBillModel.dll
+C:\Users\rhon6260\Desktop\Client Server Project 2015\Partners Service\VECO\VECO\AdminLogics\bin\Debug\VecoModels.dll
+C:\Users\rhon6260\Desktop\Client Server Project 2015\Partners Service\VECO\VECO\AdminLogics\bin\Debug\CustomerBillModel.pdb
+C:\Users\rhon6260\Desktop\Client Server Project 2015\Partners Service\VECO\VECO\AdminLogics\bin\Debug\VecoModels.pdb
+C:\Users\rhon6260\Desktop\Client Server Project 2015\Partners Service\VECO\VECO\AdminLogics\obj\Debug\AdminLogics.csprojResolveAssemblyReference.cache
+C:\Users\rhon6260\Desktop\Client Server Project 2015\Partners Service\VECO\VECO\AdminLogics\obj\Debug\AdminLogics.dll
+C:\Users\rhon6260\Desktop\Client Server Project 2015\Partners Service\VECO\VECO\AdminLogics\obj\Debug\AdminLogics.pdb

@@ -1,0 +1,31 @@
+C:\Users\BOSCONTROL\Documents\Visual Studio 2010\Projects\VECO\VecoApp\bin\Debug\VecoApp.exe
+C:\Users\BOSCONTROL\Documents\Visual Studio 2010\Projects\VECO\VecoApp\bin\Debug\VecoApp.pdb
+C:\Users\BOSCONTROL\Documents\Visual Studio 2010\Projects\VECO\VecoApp\bin\Debug\AdminLogics.dll
+C:\Users\BOSCONTROL\Documents\Visual Studio 2010\Projects\VECO\VecoApp\bin\Debug\CustomerBillModel.dll
+C:\Users\BOSCONTROL\Documents\Visual Studio 2010\Projects\VECO\VecoApp\bin\Debug\VecoModels.dll
+C:\Users\BOSCONTROL\Documents\Visual Studio 2010\Projects\VECO\VecoApp\bin\Debug\MySql.Data.dll
+C:\Users\BOSCONTROL\Documents\Visual Studio 2010\Projects\VECO\VecoApp\bin\Debug\AdminLogics.pdb
+C:\Users\BOSCONTROL\Documents\Visual Studio 2010\Projects\VECO\VecoApp\bin\Debug\CustomerBillModel.pdb
+C:\Users\BOSCONTROL\Documents\Visual Studio 2010\Projects\VECO\VecoApp\bin\Debug\VecoModels.pdb
+C:\Users\BOSCONTROL\Documents\Visual Studio 2010\Projects\VECO\VecoApp\obj\x86\Debug\VecoApp.csprojResolveAssemblyReference.cache
+C:\Users\BOSCONTROL\Documents\Visual Studio 2010\Projects\VECO\VecoApp\obj\x86\Debug\VecoApp.Properties.Resources.resources
+C:\Users\BOSCONTROL\Documents\Visual Studio 2010\Projects\VECO\VecoApp\obj\x86\Debug\VecoApp.csproj.GenerateResource.Cache
+C:\Users\BOSCONTROL\Documents\Visual Studio 2010\Projects\VECO\VecoApp\obj\x86\Debug\VecoApp.exe
+C:\Users\BOSCONTROL\Documents\Visual Studio 2010\Projects\VECO\VecoApp\obj\x86\Debug\VecoApp.pdb
+C:\Users\BOSCONTROL\Documents\Visual Studio 2010\Projects\VECO\VecoApp\obj\x86\Debug\VecoApp.frmAdminMain.resources
+C:\Users\BOSCONTROL\Documents\Visual Studio 2010\Projects\VECO\VecoApp\bin\Debug\VecoApp.exe.config
+C:\Users\rhon6260\Desktop\Client Server Project 2015\Partners Service\VECO\VECO\VecoApp\bin\Debug\VecoApp.exe.config
+C:\Users\rhon6260\Desktop\Client Server Project 2015\Partners Service\VECO\VECO\VecoApp\obj\x86\Debug\VecoApp.exe
+C:\Users\rhon6260\Desktop\Client Server Project 2015\Partners Service\VECO\VECO\VecoApp\obj\x86\Debug\VecoApp.pdb
+C:\Users\rhon6260\Desktop\Client Server Project 2015\Partners Service\VECO\VECO\VecoApp\bin\Debug\VecoApp.exe
+C:\Users\rhon6260\Desktop\Client Server Project 2015\Partners Service\VECO\VECO\VecoApp\bin\Debug\VecoApp.pdb
+C:\Users\rhon6260\Desktop\Client Server Project 2015\Partners Service\VECO\VECO\VecoApp\bin\Debug\AdminLogics.dll
+C:\Users\rhon6260\Desktop\Client Server Project 2015\Partners Service\VECO\VECO\VecoApp\bin\Debug\CustomerBillModel.dll
+C:\Users\rhon6260\Desktop\Client Server Project 2015\Partners Service\VECO\VECO\VecoApp\bin\Debug\VecoModels.dll
+C:\Users\rhon6260\Desktop\Client Server Project 2015\Partners Service\VECO\VECO\VecoApp\bin\Debug\AdminLogics.pdb
+C:\Users\rhon6260\Desktop\Client Server Project 2015\Partners Service\VECO\VECO\VecoApp\bin\Debug\CustomerBillModel.pdb
+C:\Users\rhon6260\Desktop\Client Server Project 2015\Partners Service\VECO\VECO\VecoApp\bin\Debug\VecoModels.pdb
+C:\Users\rhon6260\Desktop\Client Server Project 2015\Partners Service\VECO\VECO\VecoApp\obj\x86\Debug\VecoApp.csprojResolveAssemblyReference.cache
+C:\Users\rhon6260\Desktop\Client Server Project 2015\Partners Service\VECO\VECO\VecoApp\obj\x86\Debug\VecoApp.frmAdminMain.resources
+C:\Users\rhon6260\Desktop\Client Server Project 2015\Partners Service\VECO\VECO\VecoApp\obj\x86\Debug\VecoApp.Properties.Resources.resources
+C:\Users\rhon6260\Desktop\Client Server Project 2015\Partners Service\VECO\VECO\VecoApp\obj\x86\Debug\VecoApp.csproj.GenerateResource.Cache

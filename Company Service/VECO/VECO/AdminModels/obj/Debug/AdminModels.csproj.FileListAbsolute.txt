@@ -1,0 +1,4 @@
+C:\Users\BOSCONTROL\Documents\Visual Studio 2010\Projects\VECO\AdminModels\bin\Debug\AdminModels.dll
+C:\Users\BOSCONTROL\Documents\Visual Studio 2010\Projects\VECO\AdminModels\bin\Debug\AdminModels.pdb
+C:\Users\BOSCONTROL\Documents\Visual Studio 2010\Projects\VECO\AdminModels\obj\Debug\AdminModels.dll
+C:\Users\BOSCONTROL\Documents\Visual Studio 2010\Projects\VECO\AdminModels\obj\Debug\AdminModels.pdb

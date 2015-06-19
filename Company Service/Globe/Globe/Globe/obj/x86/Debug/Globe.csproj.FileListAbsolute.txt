@@ -1,0 +1,29 @@
+C:\Users\BOSCONTROL\Documents\Visual Studio 2010\Projects\ClientServerApp\Services\Globe\Globe\obj\x86\Debug\Globe.frmMain.resources
+C:\Users\BOSCONTROL\Documents\Visual Studio 2010\Projects\ClientServerApp\Services\Globe\Globe\obj\x86\Debug\Globe.csproj.GenerateResource.Cache
+C:\Users\BOSCONTROL\Documents\Visual Studio 2010\Projects\ClientServerApp\Services\Globe\Globe\obj\x86\Debug\Globe.csprojResolveAssemblyReference.cache
+C:\Users\BOSCONTROL\Documents\Visual Studio 2010\Projects\ClientServerApp\Services\Globe\Globe\bin\Debug\Globe.exe.config
+C:\Users\BOSCONTROL\Documents\Visual Studio 2010\Projects\ClientServerApp\Services\Globe\Globe\bin\Debug\Globe.exe
+C:\Users\BOSCONTROL\Documents\Visual Studio 2010\Projects\ClientServerApp\Services\Globe\Globe\bin\Debug\Globe.pdb
+C:\Users\BOSCONTROL\Documents\Visual Studio 2010\Projects\ClientServerApp\Services\Globe\Globe\bin\Debug\AdminBusiness.dll
+C:\Users\BOSCONTROL\Documents\Visual Studio 2010\Projects\ClientServerApp\Services\Globe\Globe\bin\Debug\Models.dll
+C:\Users\BOSCONTROL\Documents\Visual Studio 2010\Projects\ClientServerApp\Services\Globe\Globe\bin\Debug\MySql.Data.dll
+C:\Users\BOSCONTROL\Documents\Visual Studio 2010\Projects\ClientServerApp\Services\Globe\Globe\bin\Debug\AdminBusiness.pdb
+C:\Users\BOSCONTROL\Documents\Visual Studio 2010\Projects\ClientServerApp\Services\Globe\Globe\bin\Debug\Models.pdb
+C:\Users\BOSCONTROL\Documents\Visual Studio 2010\Projects\ClientServerApp\Services\Globe\Globe\obj\x86\Debug\Globe.exe
+C:\Users\BOSCONTROL\Documents\Visual Studio 2010\Projects\ClientServerApp\Services\Globe\Globe\obj\x86\Debug\Globe.pdb
+C:\Users\BOSCONTROL\Documents\Visual Studio 2010\Projects\ClientServerApp\Services\Globe\Globe\bin\Debug\AdminModels.dll
+C:\Users\BOSCONTROL\Documents\Visual Studio 2010\Projects\ClientServerApp\Services\Globe\Globe\bin\Debug\AdminModels.pdb
+C:\Users\rhon6260\Desktop\Client Server Project 2015\Partners Service\Globe\Globe\Globe\bin\Debug\Globe.exe.config
+C:\Users\rhon6260\Desktop\Client Server Project 2015\Partners Service\Globe\Globe\Globe\bin\Debug\Globe.exe
+C:\Users\rhon6260\Desktop\Client Server Project 2015\Partners Service\Globe\Globe\Globe\bin\Debug\Globe.pdb
+C:\Users\rhon6260\Desktop\Client Server Project 2015\Partners Service\Globe\Globe\Globe\bin\Debug\AdminBusiness.dll
+C:\Users\rhon6260\Desktop\Client Server Project 2015\Partners Service\Globe\Globe\Globe\bin\Debug\AdminModels.dll
+C:\Users\rhon6260\Desktop\Client Server Project 2015\Partners Service\Globe\Globe\Globe\bin\Debug\Models.dll
+C:\Users\rhon6260\Desktop\Client Server Project 2015\Partners Service\Globe\Globe\Globe\bin\Debug\AdminBusiness.pdb
+C:\Users\rhon6260\Desktop\Client Server Project 2015\Partners Service\Globe\Globe\Globe\bin\Debug\AdminModels.pdb
+C:\Users\rhon6260\Desktop\Client Server Project 2015\Partners Service\Globe\Globe\Globe\bin\Debug\Models.pdb
+C:\Users\rhon6260\Desktop\Client Server Project 2015\Partners Service\Globe\Globe\Globe\obj\x86\Debug\Globe.csprojResolveAssemblyReference.cache
+C:\Users\rhon6260\Desktop\Client Server Project 2015\Partners Service\Globe\Globe\Globe\obj\x86\Debug\Globe.frmMain.resources
+C:\Users\rhon6260\Desktop\Client Server Project 2015\Partners Service\Globe\Globe\Globe\obj\x86\Debug\Globe.csproj.GenerateResource.Cache
+C:\Users\rhon6260\Desktop\Client Server Project 2015\Partners Service\Globe\Globe\Globe\obj\x86\Debug\Globe.exe
+C:\Users\rhon6260\Desktop\Client Server Project 2015\Partners Service\Globe\Globe\Globe\obj\x86\Debug\Globe.pdb

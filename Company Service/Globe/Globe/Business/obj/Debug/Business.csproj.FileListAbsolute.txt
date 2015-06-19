@@ -1,0 +1,16 @@
+C:\Users\BOSCONTROL\Documents\Visual Studio 2010\Projects\ClientServerApp\Services\Globe\Business\obj\Debug\Business.csprojResolveAssemblyReference.cache
+C:\Users\BOSCONTROL\Documents\Visual Studio 2010\Projects\ClientServerApp\Services\Globe\Business\bin\Debug\Business.dll
+C:\Users\BOSCONTROL\Documents\Visual Studio 2010\Projects\ClientServerApp\Services\Globe\Business\bin\Debug\Business.pdb
+C:\Users\BOSCONTROL\Documents\Visual Studio 2010\Projects\ClientServerApp\Services\Globe\Business\bin\Debug\Models.dll
+C:\Users\BOSCONTROL\Documents\Visual Studio 2010\Projects\ClientServerApp\Services\Globe\Business\bin\Debug\MySql.Data.dll
+C:\Users\BOSCONTROL\Documents\Visual Studio 2010\Projects\ClientServerApp\Services\Globe\Business\bin\Debug\Models.pdb
+C:\Users\BOSCONTROL\Documents\Visual Studio 2010\Projects\ClientServerApp\Services\Globe\Business\obj\Debug\Business.dll
+C:\Users\BOSCONTROL\Documents\Visual Studio 2010\Projects\ClientServerApp\Services\Globe\Business\obj\Debug\Business.pdb
+C:\Users\BOSCONTROL\Documents\Visual Studio 2010\Projects\ClientServerApp\Services\Globe\Business\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rhon6260\Desktop\Client Server Project 2015\Partners Service\Globe\Globe\Business\bin\Debug\Business.dll
+C:\Users\rhon6260\Desktop\Client Server Project 2015\Partners Service\Globe\Globe\Business\bin\Debug\Business.pdb
+C:\Users\rhon6260\Desktop\Client Server Project 2015\Partners Service\Globe\Globe\Business\bin\Debug\Models.dll
+C:\Users\rhon6260\Desktop\Client Server Project 2015\Partners Service\Globe\Globe\Business\bin\Debug\Models.pdb
+C:\Users\rhon6260\Desktop\Client Server Project 2015\Partners Service\Globe\Globe\Business\obj\Debug\Business.csprojResolveAssemblyReference.cache
+C:\Users\rhon6260\Desktop\Client Server Project 2015\Partners Service\Globe\Globe\Business\obj\Debug\Business.dll
+C:\Users\rhon6260\Desktop\Client Server Project 2015\Partners Service\Globe\Globe\Business\obj\Debug\Business.pdb

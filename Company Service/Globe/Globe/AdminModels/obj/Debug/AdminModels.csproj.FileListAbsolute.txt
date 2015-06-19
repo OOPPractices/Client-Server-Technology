@@ -1,0 +1,14 @@
+C:\Users\BOSCONTROL\Documents\Visual Studio 2010\Projects\ClientServerApp\Services\Globe\AdminModels\obj\Debug\AdminModels.csprojResolveAssemblyReference.cache
+C:\Users\BOSCONTROL\Documents\Visual Studio 2010\Projects\ClientServerApp\Services\Globe\AdminModels\bin\Debug\AdminModels.dll
+C:\Users\BOSCONTROL\Documents\Visual Studio 2010\Projects\ClientServerApp\Services\Globe\AdminModels\bin\Debug\AdminModels.pdb
+C:\Users\BOSCONTROL\Documents\Visual Studio 2010\Projects\ClientServerApp\Services\Globe\AdminModels\bin\Debug\Models.dll
+C:\Users\BOSCONTROL\Documents\Visual Studio 2010\Projects\ClientServerApp\Services\Globe\AdminModels\bin\Debug\Models.pdb
+C:\Users\BOSCONTROL\Documents\Visual Studio 2010\Projects\ClientServerApp\Services\Globe\AdminModels\obj\Debug\AdminModels.dll
+C:\Users\BOSCONTROL\Documents\Visual Studio 2010\Projects\ClientServerApp\Services\Globe\AdminModels\obj\Debug\AdminModels.pdb
+C:\Users\rhon6260\Desktop\Client Server Project 2015\Partners Service\Globe\Globe\AdminModels\bin\Debug\AdminModels.dll
+C:\Users\rhon6260\Desktop\Client Server Project 2015\Partners Service\Globe\Globe\AdminModels\bin\Debug\AdminModels.pdb
+C:\Users\rhon6260\Desktop\Client Server Project 2015\Partners Service\Globe\Globe\AdminModels\bin\Debug\Models.dll
+C:\Users\rhon6260\Desktop\Client Server Project 2015\Partners Service\Globe\Globe\AdminModels\bin\Debug\Models.pdb
+C:\Users\rhon6260\Desktop\Client Server Project 2015\Partners Service\Globe\Globe\AdminModels\obj\Debug\AdminModels.csprojResolveAssemblyReference.cache
+C:\Users\rhon6260\Desktop\Client Server Project 2015\Partners Service\Globe\Globe\AdminModels\obj\Debug\AdminModels.dll
+C:\Users\rhon6260\Desktop\Client Server Project 2015\Partners Service\Globe\Globe\AdminModels\obj\Debug\AdminModels.pdb

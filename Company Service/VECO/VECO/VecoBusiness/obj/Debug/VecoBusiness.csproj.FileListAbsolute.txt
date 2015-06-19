@@ -1,0 +1,16 @@
+C:\Users\BOSCONTROL\Documents\Visual Studio 2010\Projects\VECO\VecoBusiness\bin\Debug\VecoBusiness.dll
+C:\Users\BOSCONTROL\Documents\Visual Studio 2010\Projects\VECO\VecoBusiness\bin\Debug\VecoBusiness.pdb
+C:\Users\BOSCONTROL\Documents\Visual Studio 2010\Projects\VECO\VecoBusiness\bin\Debug\MySql.Data.dll
+C:\Users\BOSCONTROL\Documents\Visual Studio 2010\Projects\VECO\VecoBusiness\bin\Debug\Newtonsoft.Json.dll
+C:\Users\BOSCONTROL\Documents\Visual Studio 2010\Projects\VECO\VecoBusiness\bin\Debug\VecoModels.dll
+C:\Users\BOSCONTROL\Documents\Visual Studio 2010\Projects\VECO\VecoBusiness\bin\Debug\VecoModels.pdb
+C:\Users\BOSCONTROL\Documents\Visual Studio 2010\Projects\VECO\VecoBusiness\obj\Debug\VecoBusiness.csprojResolveAssemblyReference.cache
+C:\Users\BOSCONTROL\Documents\Visual Studio 2010\Projects\VECO\VecoBusiness\obj\Debug\VecoBusiness.dll
+C:\Users\BOSCONTROL\Documents\Visual Studio 2010\Projects\VECO\VecoBusiness\obj\Debug\VecoBusiness.pdb
+C:\Users\rhon6260\Desktop\Client Server Project 2015\Partners Service\VECO\VECO\VecoBusiness\bin\Debug\VecoBusiness.dll
+C:\Users\rhon6260\Desktop\Client Server Project 2015\Partners Service\VECO\VECO\VecoBusiness\bin\Debug\VecoBusiness.pdb
+C:\Users\rhon6260\Desktop\Client Server Project 2015\Partners Service\VECO\VECO\VecoBusiness\bin\Debug\VecoModels.dll
+C:\Users\rhon6260\Desktop\Client Server Project 2015\Partners Service\VECO\VECO\VecoBusiness\bin\Debug\VecoModels.pdb
+C:\Users\rhon6260\Desktop\Client Server Project 2015\Partners Service\VECO\VECO\VecoBusiness\obj\Debug\VecoBusiness.csprojResolveAssemblyReference.cache
+C:\Users\rhon6260\Desktop\Client Server Project 2015\Partners Service\VECO\VECO\VecoBusiness\obj\Debug\VecoBusiness.dll
+C:\Users\rhon6260\Desktop\Client Server Project 2015\Partners Service\VECO\VECO\VecoBusiness\obj\Debug\VecoBusiness.pdb
